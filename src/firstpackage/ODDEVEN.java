@@ -9,7 +9,7 @@ public class ODDEVEN {
         if ( number==1) {
         System.out.println("is odd number");
     }
-
+        System.out.println();
 
         }
     }
