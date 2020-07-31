@@ -1,4 +1,4 @@
-package firstpackage;
+package ForLoop;
 
 public class PrinTgivenOutput {
     public static void main(String[] args) {

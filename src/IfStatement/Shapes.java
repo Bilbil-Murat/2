@@ -1,4 +1,4 @@
-package firstpackage;
+package IfStatement;
 import java.util.Scanner;
 public class Shapes {
     public static void main(String[] args) {
@@ -16,6 +16,5 @@ public class Shapes {
             //ask edges from user
             System.out.print("Please enter edge 1 :");
         }
-
     }
 }

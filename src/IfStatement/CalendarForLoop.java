@@ -1,4 +1,4 @@
-package firstpackage;
+package IfStatement;
 public class CalendarForLoop {
     public static void main(String[] args) {
         //Write the dates with for nested loop

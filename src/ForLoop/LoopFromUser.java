@@ -1,4 +1,4 @@
-package firstpackage;
+package ForLoop;
 import java.util.Scanner;
 public class LoopFromUser {
     public static void main(String[] args) {

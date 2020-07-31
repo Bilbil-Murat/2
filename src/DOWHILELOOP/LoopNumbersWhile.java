@@ -1,4 +1,4 @@
-package firstpackage;
+package DOWHILELOOP;
 
 public class LoopNumbersWhile {
     public static void main(String[] args) {

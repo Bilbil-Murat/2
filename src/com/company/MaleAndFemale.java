@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-public class MF {
+public class MaleAndFemale {
     public static void main(String [] args ){
         System.out.println("Please nter M or F");
         Scanner myScnanner = new Scanner (System.in);

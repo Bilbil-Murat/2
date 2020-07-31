@@ -1,4 +1,4 @@
-package firstpackage;
+package StringS;
 
 public class Strincompare {
     public static void main(String... args) {

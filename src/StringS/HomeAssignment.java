@@ -1,4 +1,4 @@
-package firstpackage;
+package StringS;
 import java.util.Scanner;
 public class HomeAssignment{
     public static void main(String [] args ){

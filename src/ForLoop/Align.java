@@ -1,4 +1,4 @@
-package firstpackage;
+package ForLoop;
 
 public class Align {
     public static void main(String[] args) {

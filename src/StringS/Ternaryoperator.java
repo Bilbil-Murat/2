@@ -1,4 +1,4 @@
-package firstpackage;
+package StringS;
 
 public class Ternaryoperator {
     public static void main(String[] args) {

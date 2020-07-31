@@ -1,4 +1,4 @@
-package firstpackage;
+package DOWHILELOOP;
 public class LoopNumbersAndLettersWithWhile {
     public static void main(String[] args) {
         // write number in each line and same letters after numbers

@@ -1,7 +1,5 @@
 package firstpackage;
-
 import java.util.Date;
-
 public class mesele {
     public static void main(String [] args ){
         double karoshka1 = 300.053;

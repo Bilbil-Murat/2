@@ -1,17 +1,16 @@
 package firstpackage;
 import java.util.Scanner;
-public class month {
+public class MonthsToString {
     public static void main(String[] args) {
-        /* Convert month numbers to string
+        /*     Question
+        Convert month numbers to string
         - Sample input : 6
                 output: June
-
         */
-
-        int month = 5;
-        String monthText;
+        Scanner scanner= new Scanner(System.in);
+        int month = scanner.nextInt(); //we will gonna input number of Month
+        String monthText= "";
         switch (month) {
-
             case 1:
                 //System.out.println();
                 monthText="January";
@@ -35,7 +34,7 @@ public class month {
                 monthText="July";
                 break;
             case 8:
-                monthText="Agust";
+                monthText="August";
                 break;
             case 9:
                 monthText="September";
@@ -44,7 +43,7 @@ public class month {
                 monthText="October";
                 break;
             case 11:
-                monthText="Novermber";
+                monthText="November";
                 break;
             case 12:
                 monthText="December";
@@ -52,10 +51,7 @@ public class month {
                         default:
                 System.out.println("Only 1-12");
             break;
-
-
-
         }
-
+        System.out.println(monthText);
     }
 }

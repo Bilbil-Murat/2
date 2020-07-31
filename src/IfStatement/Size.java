@@ -1,4 +1,4 @@
-package com.company;
+package IfStatement;
 import java.util.Scanner;
 public class Size {
     public static void main(String[] args) {

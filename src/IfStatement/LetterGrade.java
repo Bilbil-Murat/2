@@ -1,4 +1,4 @@
-package firstpackage;
+package IfStatement;
 public class LetterGrade{
     public static void main(String  []  args  ) {
          /*- Calculate the Grade according to score

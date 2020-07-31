@@ -1,4 +1,4 @@
-package firstpackage;
+package IfStatement;
 import java.util.Scanner;
 public class TRIANGLE {
     public static void main(String [] args ){
@@ -15,8 +15,6 @@ public class TRIANGLE {
         }
         else {
             System.out.println("Triangle");
-
-
         }
     }
 
