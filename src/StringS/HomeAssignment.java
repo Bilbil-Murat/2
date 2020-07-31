@@ -1,6 +1,6 @@
 package firstpackage;
 import java.util.Scanner;
-public class HomeAssignment {
+public class HomeAssignment{
     public static void main(String [] args ){
         Scanner myScanner = new Scanner(System .in);
         float item123 =2.49f;
@@ -14,11 +14,5 @@ public class HomeAssignment {
         System.out.format("\t123"+"\t\t\t\t\t1 \t\t\t\t$%.2f\n",item123); ;
         System.out.format("\t125"+"\t\t\t\t\t2 \t\t\t\t$%.2f\n",item125);
         System.out.format("\tTOTAL\t\t\t\t3 \t\t\t\t$%.2f", item123+(2*item125));
-
-
-
-
-
-
     }
 }

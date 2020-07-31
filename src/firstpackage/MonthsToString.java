@@ -2,6 +2,12 @@ package firstpackage;
 import java.util.Scanner;
 public class month {
     public static void main(String[] args) {
+        /* Convert month numbers to string
+        - Sample input : 6
+                output: June
+
+        */
+
         int month = 5;
         String monthText;
         switch (month) {
